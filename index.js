@@ -1,10 +1,11 @@
 console.log("hello");
 
 /**
- * First line
- * Second line
+ * 
+ * @param {*} a 
+ * @param {*} b 
+ * @returns 
  */
-
 function add(a,b){
     return a+b;
 }
