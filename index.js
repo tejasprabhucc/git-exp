@@ -24,3 +24,6 @@ function multiply(a,b){
     return a*b;
 }
 const prod = multiply(10, 15);
+
+
+//Floor implemented in index.js
