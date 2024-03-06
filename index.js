@@ -24,3 +24,6 @@ function multiply(a,b){
     return a*b;
 }
 const prod = multiply(10, 15);
+
+
+//Divide implemented in index.js
