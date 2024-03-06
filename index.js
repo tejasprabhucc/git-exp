@@ -1,11 +1,4 @@
-#!
-console.log("hello");
-
-/**
- * 
- * @param {number} a 
- * @param {number} b 
- * @returns {number}
+/** 
  * @param {number} a 
  * @param {number} b 
  * @returns {number}
@@ -24,3 +17,6 @@ function multiply(a,b){
     return a*b;
 }
 const prod = multiply(10, 15);
+
+
+// Divide is implemented
