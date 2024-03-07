@@ -18,6 +18,8 @@ function multiply(a,b){
 }
 const prod = multiply(10, 15);
 
+console.log(prod);
+
 
 //Floor implemented in index.js
 
