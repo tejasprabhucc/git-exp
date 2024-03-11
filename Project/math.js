@@ -11,3 +11,6 @@ function ceil(number){
  return Math.ceil(number)
 }
 
+//These are cahnges in main
+const x =10 ;
+const y = 20;
