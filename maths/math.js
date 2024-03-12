@@ -15,3 +15,7 @@ function ceil(number){
 const x =10 ;
 const y = 20;
 const z = 30;
+
+function tan(angle){
+    return Math.tan(angle);
+}
