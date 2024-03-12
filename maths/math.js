@@ -28,7 +28,7 @@ function tan(angle){
 /**
  * 
  * @param {angle} angle 
- * @returns returns cos 
+ * @returns {number} returns cos 
  */
 function cos(angle){
     return Math.cos(angle);
