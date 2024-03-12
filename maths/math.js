@@ -26,6 +26,11 @@ function cos(angle){
     return Math.cos(angle);
 }
 
+/**
+ * 
+ * @param {angle} angle 
+ * @returns 
+ */
 function cosec(angle){
     return "cosec";
 }
