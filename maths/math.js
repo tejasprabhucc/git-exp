@@ -26,3 +26,6 @@ function cos(angle){
     return Math.cos(angle);
 }
 
+function cosec(angle){
+    return "cosec";
+}
