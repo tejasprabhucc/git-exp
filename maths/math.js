@@ -34,3 +34,6 @@ function cos(angle){
 function cosec(angle){
     return "cosec";
 }
+function cot(angle){
+    return "cot";
+}
