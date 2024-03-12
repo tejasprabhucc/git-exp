@@ -24,3 +24,6 @@ const z = 30;
 function tan(angle){
     return Math.tan(angle);
 }
+function cos(angle){
+    return Math.cos(angle);
+}
