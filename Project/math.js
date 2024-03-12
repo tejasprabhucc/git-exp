@@ -15,6 +15,3 @@ function ceil(number){
 const x =10 ;
 const y = 20;
 const z = 30;
-//These are cahnges in main
-const x =10 ;
-const y = 20;
