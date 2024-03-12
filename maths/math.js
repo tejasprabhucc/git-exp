@@ -24,6 +24,12 @@ const z = 30;
 function tan(angle){
     return Math.tan(angle);
 }
+
+/**
+ * 
+ * @param {angle} angle 
+ * @returns returns cos 
+ */
 function cos(angle){
     return Math.cos(angle);
 }
