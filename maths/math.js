@@ -34,6 +34,11 @@ function cos(angle){
 function cosec(angle){
     return "cosec";
 }
+ /**
+ * 
+ * @param {angle} angle * 
+ * @returns cot
+ */
 function cot(angle){
     return "cot";
 }
