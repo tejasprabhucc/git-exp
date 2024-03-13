@@ -52,7 +52,6 @@ function feature(){
 
 function newBug (){
     return "Error"
-    return "New feature"
 }
 
 function bug(){
