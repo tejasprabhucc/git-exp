@@ -45,6 +45,7 @@ function cot(angle){
 
 function base(){
     return "Hello";
+}
 function feature(){
     return "Newe feature"
 }
