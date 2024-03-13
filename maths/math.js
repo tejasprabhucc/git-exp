@@ -44,5 +44,5 @@ function cot(angle){
 }
 
 function base(){
-    return "Hello;
+    return "Hello";
 }
