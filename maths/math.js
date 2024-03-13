@@ -42,3 +42,7 @@ function cosec(angle){
 function cot(angle){
     return "cot";
 }
+
+function base(){
+    return "Hello;
+}
