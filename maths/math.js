@@ -48,3 +48,7 @@ function base(){
 function feature(){
     return "Newe feature"
 }
+
+function newBug (){
+    return "Error"
+}
