@@ -67,10 +67,16 @@ function atan(angle){
     return Math.atan(angle);
 }
 
+<<<<<<< HEAD
 /**
  * 
  * @returns new function
  */
 function newFunction(){
     return "new function"
+=======
+
+function otherFunction(){
+    return "other function"
+>>>>>>> 2fb1e83 (other function added')
 }
