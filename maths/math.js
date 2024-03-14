@@ -72,7 +72,7 @@ function atan(angle){
  * @returns new function
  */
 function newFunction(){
-    return "new function"
+    return "new function in original repo"
 }
 
 /**
