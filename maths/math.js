@@ -66,3 +66,8 @@ function bug(){
 function atan(angle){
     return Math.atan(angle);
 }
+
+
+function newFunction(){
+    return "new function"
+}
