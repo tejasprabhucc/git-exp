@@ -57,3 +57,7 @@ function newBug (){
 function bug(){
     return "bug"
 }
+
+function atan(angle){
+    return Math.atan(angle);
+}
