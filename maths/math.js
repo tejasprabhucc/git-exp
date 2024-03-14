@@ -58,6 +58,11 @@ function bug(){
     return "bug"
 }
 
+/**
+ * 
+ * @param {angle} angle 
+ * @returns 
+ */
 function atan(angle){
     return Math.atan(angle);
 }
