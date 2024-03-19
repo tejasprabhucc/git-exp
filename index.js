@@ -25,8 +25,11 @@ console.log(prod);
 function floor(num){
     return Math.floor(num);
 }
+const floor =()=>{}
 
 //Divide implemented in index.js
 function divide(a, b){
     return a/b;
 }
+
+const divide =()=>{}
