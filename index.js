@@ -22,6 +22,11 @@ console.log(prod);
 
 
 //Floor implemented in index.js
-
+function floor(num){
+    return Math.floor(num);
+}
 
 //Divide implemented in index.js
+function divide(a, b){
+    return a/b;
+}
