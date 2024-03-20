@@ -15,6 +15,7 @@ function push(element){
  */
 function pop(){
     return stack.pop();
+
 }
 /**
  * Class stack implementing all stack data structure methods such as push, pop, peek 
